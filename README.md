@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maxreuth
 - 👀 I’m interested in Chess, Programming and Sports
-- 🌱 I’m currently learning Kotlin & MongoDB
+- 🌱 I’m currently learning JS and Rust
 - 💞️ I’m looking to collaborate on informative convos about programming and its usefulness
 - 📫 How to reach me @maxreuth on twitter
