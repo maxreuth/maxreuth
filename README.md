@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @maxreuth
-- 👀 I’m interested in Chess, Programming and Sports
-- 🌱 I’m currently learning JS and Kotlin
-- 📫 How to reach me @maxreuth on twitter
-- Working in the IT Sector in Germany/Frankfurt
+- 👀 I’m interested in chess, programming and sports
+- 🌱 I’m currently leaning Rust
+- Working in the IT sector in Germany/Frankfurt
